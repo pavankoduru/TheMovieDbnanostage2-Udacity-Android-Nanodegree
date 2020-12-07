@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#c2ba2e16</color>
+    <color name="detailllayout">#A4E0D19A</color>
+    <color name="textcolor">#000</color>
+    <color name="cardbackground">#B4F9852D</color>
+    <color name="ratingbarback">#FFF</color>
+    <color name="selectioncolor">#8BC34A</color>
+    <color name="maincardbgcolor">#FC9E2D</color>
+    <color name="reviewsbgcolor">#DDEBF196</color>
+</resources>
